@@ -4,6 +4,8 @@ I am an amateur BSQ (Beat Saber Quest) modder, ROBLOX lua scripter, beginner HTM
 
 Some mods I've made are [PC Render Graphics](https://github.com/CGray1234/Quest-PC-Render-Graphics), [In-Game Text](https://github.com/CGray1234/InGameText), and [ScoreSubmissionToggle](https://github.com/CGray1234/ScoreSubmissionToggle-QMOD).
 
+Making PC mods soon™
+
 I'll be making more mods in the future, so follow me to keep up with new mods! They won't be posted to BSMG for at least 2 months for reasons I would not like to specify (strict parents)
 
 <!--
