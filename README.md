@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I am an amateur BSQ (Beat Saber Quest) modder, ROBLOX lua scripter, beginner HTML programmer, and former Beat Saber addict.
+I write Beat Saber mods 😄
 
-Some mods I've made are [PC Render Graphics](https://github.com/CGray1234/Quest-PC-Render-Graphics), [In-Game Text](https://github.com/CGray1234/InGameText), and [SqoreToggler](https://github.com/CGray1234/SqoreToggler).
-
-Making PC mods soon™
-
-I'll be making more mods in the future, so follow me to keep up with new mods!
+Full list of my mods is [here](https://cgray1234.github.io/bsq-stuff/mods.html)
 
 <!--
 **CGray1234/CGray1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
