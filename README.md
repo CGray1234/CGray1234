@@ -2,7 +2,7 @@
 
 I write Beat Saber mods 😄
 
-Full list of my mods is [here](https://cgray1234.github.io/bsq-stuff/mods.html)
+Full list of my mods is [here](https://cgray1234.github.io/bs-stuff/mods)
 
 <!--
 **CGray1234/CGray1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
