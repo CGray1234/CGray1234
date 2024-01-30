@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I write Beat Saber mods 😄
+I write Beat Saber mods & make websites
 
 Full list of my mods is [here](https://cgray1234.github.io/bs-stuff/mods)
 
