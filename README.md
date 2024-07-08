@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I write Beat Saber mods & make websites
+I make websites and write Beat Saber mods (mainly websites).
 
-Full list of my mods is [here](https://cgray1234.github.io/bs-stuff/mods)
+My main project is TropiTracker. [Click here](https://tropitracker.com) to be taken to the website, or [click here]([https://](https://github.com/CGray1234/TropiTracker)) to be taken to the source code.
+
+Full list of my Beat Saber mods is [here](https://cgray1234.github.io/bs-stuff/mods)
 
 <!--
 **CGray1234/CGray1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
