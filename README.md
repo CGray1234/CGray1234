@@ -2,7 +2,7 @@
 
 I make websites and write Beat Saber mods (mainly websites).
 
-My main project is TropiTracker. [Click here](https://tropitracker.com) to be taken to the website, or [click here]([https://](https://github.com/CGray1234/TropiTracker) to be taken to the source code.
+My main project is TropiTracker. [Click here](https://tropitracker.com) to be taken to the website, or [click here](https://github.com/CGray1234/TropiTracker) to be taken to the source code.
 
 Full list of my Beat Saber mods is [here](https://cgray1234.github.io/bs-stuff/mods)
 
