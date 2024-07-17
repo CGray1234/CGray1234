@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy
 
 I make websites and write Beat Saber mods (mainly websites).
 
