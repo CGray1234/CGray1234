@@ -1,6 +1,8 @@
-### Howdy
+### Howdy 🤠
 
-I make websites and write Beat Saber mods (mainly websites).
+Mainly HTML5/JavaScript developer
+DMX Lighting designer + technician
+Weather nerd
 
 My main project is TropiTracker. [Click here](https://tropitracker.com) to be taken to the website, or [click here](https://github.com/CGray1234/TropiTracker) to be taken to the source code.
 
