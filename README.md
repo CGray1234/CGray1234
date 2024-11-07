@@ -1,8 +1,8 @@
 ### Howdy 🤠
 
-Mainly HTML5/JavaScript developer
-DMX Lighting designer + technician
-Weather nerd
+Mainly HTML5/JavaScript developer<br/>
+DMX Lighting designer + technician<br/>
+Weather nerd<br/>
 
 My main project is TropiTracker. [Click here](https://tropitracker.com) to be taken to the website, or [click here](https://github.com/CGray1234/TropiTracker) to be taken to the source code.
 
