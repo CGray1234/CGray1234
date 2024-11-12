@@ -5,7 +5,7 @@ Mainly HTML5/JavaScript developer<br/>
 DMX Lighting designer + technician<br/>
 Weather nerd<br/>
 
-My main project is TropiTracker. [Click here](https://tropitracker.com) to be taken to the website, or [click here](https://github.com/CGray1234/TropiTracker) to be taken to the source code.
+My main project is TropiTracker. [Click here](https://tropitracker.com) to be taken to the website, or [click here](https://github.com/TropiTracker/) to be taken to the GitHub organization.
 
 Full list of my Beat Saber mods is [here](https://cgray1234.github.io/bs-stuff/mods)
 
