@@ -1,7 +1,7 @@
 ### Howdy 🤠
 
 Romans 10:9<br/>
-Mainly HTML5/JavaScript developer<br/>
+Mainly HTML/JavaScript developer<br/>
 DMX Lighting designer + technician<br/>
 Weather nerd<br/>
 
