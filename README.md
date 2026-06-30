@@ -1,9 +1,8 @@
 ### Howdy 🤠
 
 Romans 10:9<br/>
-Self-taught web developer<br/>
+Full-stack web dev<br/>
 Weather nerd<br/>
-Software developer for [Max Velocity](https://youtube.com/@MaxVelocityWX)<br/>
 
 My main project is TropiTracker. [Click here](https://tropitracker.com) to be taken to the website, or [click here](https://github.com/TropiTracker/) to be taken to the GitHub organization.
 
